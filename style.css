@@ -176,7 +176,7 @@
         flex-direction: row;
     }
     .encriptar{
-        width: 80%;
+        width: 100%;
     }
     .texto{
         width: 80%;
@@ -185,7 +185,7 @@
         top: 5%;
     }
     .terminos{
-        width: 70%;
+        width: 80%;
         left: 10%;
         top: 67%;
     }
@@ -215,7 +215,7 @@
     }
     .mensaje-encriptado{
         width: 100%;
-        top: 5%;
+        top: 10%;
     }
     .encriptado img {
         top: 0%;
