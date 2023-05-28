@@ -215,7 +215,7 @@
     }
     .mensaje-encriptado{
         width: 100%;
-        top: 12%;
+        top: 15%;
     }
     .encriptado img {
         top: 0%;
@@ -226,7 +226,7 @@
 #mensajeencriptado {
     font-weight: bold;
     font-size: 20px;
-    top: 75%;
+    top: 65%;
 }
 
 
