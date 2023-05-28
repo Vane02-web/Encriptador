@@ -117,7 +117,7 @@
     justify-content: center;
     position: absolute;
     width: 30%;
-    height: 80%;
+    height: 90%;
     left: 60%;
     top: 5%;
     background: #b6babe;
@@ -133,8 +133,8 @@
     padding: 1%;
     gap: 16px;
     position: absolute;
-    width: 90%;
-    top: 60%;
+    width: 100%;
+    top: 65%;
     text-align: center;
 }
 
@@ -176,7 +176,7 @@
         flex-direction: row;
     }
     .encriptar{
-        width: 100%;
+        width: 80%;
     }
     .texto{
         width: 80%;
@@ -185,7 +185,7 @@
         top: 5%;
     }
     .terminos{
-        width: 80%;
+        width: 70%;
         left: 10%;
         top: 67%;
     }
