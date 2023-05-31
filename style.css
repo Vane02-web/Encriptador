@@ -168,9 +168,14 @@
     height: 50%;
     top: 15%;
 }
+#mensajeencriptado {
+    font-weight: bold;
+    font-size: 20px;
+    top: 55%;
+}
 
 /* Responsive design */
-@media (max-width: 57.5em){
+@media screen and (max-width: 360px){
     .container{
         display: flex;
         flex-direction: row;
@@ -214,19 +219,21 @@
         top: 80%;
     }
     .mensaje-encriptado{
+        top: auto;
+    }
+    .mensaje-encriptado h2{
         width: 100%;
-        top: 15%;
+        font-weight: 500;
     }
     .encriptado img {
         top: 0%;
         display: none;
         visibility: 0.08%;
     }
+    #titulo-de-mensaje{
+        font-size: 18px;
+    }
 }
-#mensajeencriptado {
-    font-weight: bold;
-    font-size: 20px;
-    top: 55%;
-}
+
 
 
