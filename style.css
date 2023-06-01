@@ -168,14 +168,14 @@
     height: 50%;
     top: 15%;
 }
-#mensajeencriptado {
+.mensaje-encriptado{
     font-weight: bold;
     font-size: 20px;
-    top: 55%;
+    top: 75%;
 }
 
 /* Responsive design */
-@media screen and (max-width: 360px){
+@media screen and (max-width: 412px){
     .container{
         display: flex;
         flex-direction: row;
@@ -234,6 +234,5 @@
         font-size: 18px;
     }
 }
-
 
 
